@@ -1,6 +1,6 @@
 # godot-fmod-ci-example
 
-This project aims to demonstrate the integration of Continuous Integration/Continuous Deployment (CI/CD) in a Godot 4 project using [godot-ci](https://github.com/barichello/godot-ci) and FMOD integration using [fmod-for-godot](https://github.com/alessandrofama/fmod-for-godot).
+This project aims to demonstrate the integration of Continuous Integration/Continuous Deployment (CI/CD) in a Godot 4 project using [godot-ci](https://github.com/abarichello/godot-ci) and FMOD integration using [fmod-for-godot](https://github.com/alessandrofama/fmod-for-godot).
 
 ## Getting Started
 
