@@ -2,6 +2,9 @@
 
 This project aims to demonstrate the integration of Continuous Integration/Continuous Deployment (CI/CD) in a Godot 4 project using [godot-ci](https://github.com/abarichello/godot-ci) and FMOD integration using [fmod-for-godot](https://github.com/alessandrofama/fmod-for-godot).
 
+**This project was created for the following issue**:  
+[`alessandrofama/fmod-for-godot`: Unable to build project with CI when FMOD plugin is installed #23](https://github.com/alessandrofama/fmod-for-godot/issues/23)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
